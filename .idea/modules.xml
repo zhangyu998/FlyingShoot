@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flyGame/flyGame.iml" filepath="$PROJECT_DIR$/flyGame/flyGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/pro.iml" filepath="$PROJECT_DIR$/day01/pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyDay.iml" filepath="$PROJECT_DIR$/studyDay.iml" />
+    </modules>
+  </component>
+</project>
